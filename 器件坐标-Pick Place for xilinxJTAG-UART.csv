@@ -1,0 +1,51 @@
+Altium Designer Pick and Place Locations
+D:\isntallsoft\InteractiveHtmlBomForAD-0.3.17\InteractiveHtmlBomForAD-0.3.17\Project Outputs for InteractiveHtmlBomForAD\Pick Place for JTAG_HW.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       28/11/23
+Time:       18:33
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"C14","0.1uF","TopLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","105.7770","78.5495","270",""
+"Y1","12MHZ","TopLayer","Crystal:Crystal_SMD_0603-2Pin_6.0x3.5mm_HandSoldering","95.4900","94.1705","180",""
+"R11","1K","TopLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","86.4730","79.9465","0",""
+"R10","2K2","TopLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","102.9830","95.3135","180",""
+"R9","2K2","TopLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","102.9830","93.1545","180",""
+"R8","12K","TopLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","87.8700","90.8685","0",""
+"R7","27","TopLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","87.8587","88.6180","0",""
+"R6","27","TopLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","87.8331","86.3828","0",""
+"R5","2K2","BottomLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","88.2891","82.2997","270",""
+"R4","2.2K","BottomLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","104.6758","82.8040","0",""
+"R3","10K","BottomLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","104.6594","85.1230","0",""
+"R2","10K","BottomLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","104.6658","87.5055","0",""
+"R1","10K","BottomLayer","Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder","104.6605","89.9566","0",""
+"C15","0.1uF","TopLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","91.6800","78.9305","90",""
+"C13","0.1uF","TopLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","87.8700","95.3135","180",""
+"C12","0.1uF","TopLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","109.7140","77.9145","0",""
+"C11","0.1uF","TopLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","107.6820","90.2335","90",""
+"C9","0.1uF","BottomLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","95.7973","82.0561","270",""
+"C7","0.1uF","BottomLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","88.3424","93.4085","270",""
+"C6","0.1uF","TopLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","89.5210","78.9305","90",""
+"C5","27pF","BottomLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","94.6735","95.7326","180",""
+"C4","27pF","BottomLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","102.9830","95.7707","0",""
+"C3","0.1uF","BottomLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","90.6640","82.3595","270",""
+"C2","0.1uF","BottomLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","93.8085","82.0725","270",""
+"C1","0.1uF","BottomLayer","Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","104.6631","92.3747","180",""
+"U4","FT2232HL","TopLayer","Package_QFP:LQFP-64_10x10mm_P0.5mm","99.4270","84.6455","0",""
+"U3","NUP2202","BottomLayer","Package_TO_SOT_SMD:SOT-363_SC-70-6","84.4410","86.6775","0",""
+"FB2","FerriteBead_Small","TopLayer","Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder","87.8700","81.9785","180",""
+"D3","TX_LED","TopLayer","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","106.9200","95.3135","0",""
+"D2","RX_LED","TopLayer","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","106.9200","93.1545","0",""
+"FB1","FerriteBead_Small","TopLayer","Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder","87.8700","93.1545","180",""
+"C10","10uF","BottomLayer","Capacitor_Tantalum_SMD:CP_EIA-3216-18_Kemet-A_Pad1.58x1.35mm_HandSolder","97.9030","81.2165","270",""
+"J3","Conn_01x06_Male","BottomLayer","JTAG_HW:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1long","112.7112","86.6775","180",""
+"J2","Conn_01x06_Male","TopLayer","JTAG_HW:PinHeader_1x06_P2.54mm_Vertical_SMD_Pin1long","112.7340","86.6775","0",""
+"U2","AMS1117-3.3","BottomLayer","Package_TO_SOT_SMD:SOT-223-3_TabPin2","91.7304","87.8573","180",""
+"U1","93CxxC","BottomLayer","Package_SO:SOIC-8_3.9x4.9mm_P1.27mm","99.5057","87.7519","90",""
+"J6","USB_C16PIN","TopLayer","USB-C-COM-15111:USB-C-COM-15111","81.3525","86.7892","270",""
+"D1","pwr","TopLayer","LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder","87.8700","84.2645","180",""
